@@ -8,3 +8,4 @@ given in the `blog-mockup.pdf`.
 Open `index.html` to the HTML page.
 
 ---
+**Shubham Sharma**
